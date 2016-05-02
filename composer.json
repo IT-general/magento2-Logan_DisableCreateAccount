@@ -1,0 +1,17 @@
+{
+    "name": "logan/disablecreateaccount",
+    "description": "Magento 2 plugin to redirect account creation requests to home page",
+    "type": "magento2-module",
+    "version": "dev-master",
+    "license": [
+        "OSL-3.0"
+    ],
+    "extra": {
+        "map": [
+            [
+                "*",
+                "Logan/DisableCreateAccount"
+            ]
+        ]
+    }
+}
